@@ -3,7 +3,7 @@
 <a href="#" target="_blank">
   <img src="svg/tranvanhoang241199.svg" width="1200" alt="tranvanhoang241199-official" />
 </a>
-
+<hr/>
 <br>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -71,6 +71,7 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 
+<hr/>
 <h2 align="left">😉 Personal information.</h2>
 
 <p><strong>☕ Name: Tran Van Hoang "Trần Văn Hoàng".</strong></p>
@@ -78,6 +79,12 @@
 <p><strong>☕ Home town: Lộc Điền, Phú Lộc, Thừa Thiên Huế.</strong></p>
 <p><strong>☕ Academic level: Hue Science University.</strong></p>
 <p><strong>☕ Training industry: Information Technology.</strong></p>
+<hr/>
+<p>best friend
+
+I'm glad you came to my Github page, I hope we can understand each other better through this Github...
+
+I wish you a good day.</p>
 <p>
   <strong>🔗 ...: <a href="#" target="_blank">...</a></strong>
   <br>
@@ -90,6 +97,7 @@
 </a> -->
 
 <br>
+<hr/>
 <h2 align="left">🌜 Where to find me.</h2>
 <br>
 <br>
