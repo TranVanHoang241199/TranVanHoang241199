@@ -97,8 +97,8 @@ I wish you a good day.</p>
 <br>
 <hr/>
 <h2 align="left">🌜 Where to find me.</h2>
-<br>
-<br>
+<br/>
+<br/>
 <!-- https://icons8.com -->
 <div align="center">
 
@@ -119,7 +119,7 @@ I wish you a good day.</p>
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
-
+<br/><br/>
 <strong>🔗 Facebook: <a href="https://www.facebook.com/hoangtv241199/" target="_blank">Nhấn vào đầy truy cập Facebook của Trần Văn Hoàng.</a></strong>
 
 <strong>🔗 Youtube: <a href="https://www.youtube.com/channel/UCXupSRyp8UzeU1yp1QuqIJw" target="_blank">Nhấn vào đầy truy cập Youtube của Trần Văn Hoàng.</a></strong>
