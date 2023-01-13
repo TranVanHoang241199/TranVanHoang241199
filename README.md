@@ -3,7 +3,6 @@
 <a href="#" target="_blank">
   <img src="svg/tranvanhoang241199.svg" width="1200" alt="tranvanhoang241199-official" />
 </a>
-<hr/>
 <br>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -79,7 +78,6 @@
 <p><strong>☕ Home town: Lộc Điền, Phú Lộc, Thừa Thiên Huế.</strong></p>
 <p><strong>☕ Academic level: Hue Science University.</strong></p>
 <p><strong>☕ Training industry: Information Technology.</strong></p>
-<hr/>
 <p>best friend
 
 I'm glad you came to my Github page, I hope we can understand each other better through this Github...
@@ -136,10 +134,10 @@ I wish you a good day.</p>
 <br>
 <br>
 
-
+<hr/>
 <h2 align="center">📑 Hi nice to meet you ! </h2>
-<br>
-<br>
+<br/>
+<br/>
 <a href="#" target="_blank">
   <img src="./images/IMG_0802.HEIC.jpg" alt="trungquandev-official" />
 </a>
