@@ -1,15 +1,13 @@
 <!-- tranvanhoang241199 -->
 
-<br>
-<br>
 <a href="#" target="_blank">
   <img src="svg/tranvanhoang241199.svg" width="1200" alt="tranvanhoang241199-official" />
 </a>
 
 <br>
-
+<br>
 <!-- https://simpleicons.org/ -->
-&nbsp;
+
 <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=Microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
@@ -73,7 +71,6 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 
-<br>
 <h2 align="left">😉 Personal information.</h2>
 
 <p><strong>☕ Name: Tran Van Hoang "Trần Văn Hoàng".</strong></p>
@@ -88,9 +85,9 @@
   <br>
   <strong>📧 Gmail: <a href="vanhoangtran241199@gmail.com" target="_top">vanhoangtran241199@gmail.com</a></strong>
 </p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
+<!-- <a href="https://youtu.be/63opfUkPq6k" target="_blank">
   <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
-</a>
+</a> -->
 
 <br>
 <h2 align="left">🌜 Where to find me.</h2>
