@@ -5,9 +5,11 @@
 <a href="#" target="_blank">
   <img src="svg/tranvanhoang241199.svg" width="1200" alt="tranvanhoang241199-official" />
 </a>
+
 <br>
 
 <!-- https://simpleicons.org/ -->
+&nbsp;
 <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=Microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
@@ -72,8 +74,6 @@
 &nbsp;
 
 <br>
-
-<br>
 <h2 align="left">😉 Personal information.</h2>
 
 <p><strong>☕ Name: Tran Van Hoang "Trần Văn Hoàng".</strong></p>
@@ -94,6 +94,8 @@
 
 <br>
 <h2 align="left">🌜 Where to find me.</h2>
+<br>
+<br>
 <!-- https://icons8.com -->
 <div align="center">
 
@@ -127,10 +129,12 @@
 
 
 <br>
+<br>
 
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
+<br>
 <a href="#" target="_blank">
-  <img src="./images/IMG_0802.HEIC.jpg" width="846" height="245" alt="trungquandev-official" />
+  <img src="./images/IMG_0802.HEIC.jpg" alt="trungquandev-official" />
 </a>
