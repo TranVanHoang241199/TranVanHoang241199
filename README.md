@@ -72,21 +72,27 @@
 
 <hr/>
 <h2 align="left">😉 Personal information.</h2>
+<br/>
+<p><strong>☕ Name: </strong>Hoang Tran Van.</p>
+<p><strong>☕ Vietnamese name: </strong>Trần Văn Hoàng.</p>
+<p><strong>☕ Date of birth: </strong>24-11-1999.</p>
+<p><strong>☕ Home town: </strong>Loc Dien, Phu Loc, Thua Thien Hue. 
+<img src="./images/Hueimg.jpg" alt="trungquandev-official" height="30dp"/>
+</p>
+<p><strong>☕ Academic level: </strong>Hue Science University.<img src="./images/img_dhkh_hue.jpg" alt="trungquandev-official" height="30dp"/></p>
+<p><strong>☕ Training industry: </strong>Information Technology.</p>
+<br/><br/>
+<p>Dear friend.
 
-<p><strong>☕ Name: Tran Van Hoang "Trần Văn Hoàng".</strong></p>
-<p><strong>☕ Date of birth: 24-11-1999.</strong></p>
-<p><strong>☕ Home town: Lộc Điền, Phú Lộc, Thừa Thiên Huế.</strong></p>
-<p><strong>☕ Academic level: Hue Science University.</strong></p>
-<p><strong>☕ Training industry: Information Technology.</strong></p>
-<p>best friend
-
-I'm glad you came to my Github page, I hope we can understand each other better through this Github...
+I'm glad you've come to my Github page, where there's a little bit of information about me and the projects I share with everyone. I hope you will find what you are looking for and we can get to know each other better through this Github...
 
 I wish you a good day.</p>
+<br/>
 <p>
-  <strong>🔗 ...: <a href="#" target="_blank">...</a></strong>
+📜 <strong><i>Contact Info:</i></strong> <br/><br/>
+  <strong>💬 ...: <a href="#" target="_blank">...</a></strong>
   <br>
-  <strong>🔗 ...: <a href="#" target="_blank">...</a></strong>
+  <strong>📱 Phone: <a href="#" target="_blank">0961523842</a></strong>
   <br>
   <strong>📧 Gmail: <a href="vanhoangtran241199@gmail.com" target="_top">vanhoangtran241199@gmail.com</a></strong>
 </p>
@@ -94,7 +100,6 @@ I wish you a good day.</p>
   <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
 </a> -->
 
-<br>
 <hr/>
 <h2 align="left">🌜 Where to find me.</h2>
 <br/>
@@ -121,11 +126,11 @@ I wish you a good day.</p>
 </div>
 <br/><br/>
 <strong>🔗 Facebook: <a href="https://www.facebook.com/hoangtv241199/" target="_blank">Nhấn vào đầy truy cập Facebook của Trần Văn Hoàng.</a></strong>
-<br/>
+<br/><br/>
 <strong>🔗 Youtube: <a href="https://www.youtube.com/channel/UCXupSRyp8UzeU1yp1QuqIJw" target="_blank">Nhấn vào đầy truy cập Youtube của Trần Văn Hoàng.</a></strong>
-
+<br/><br/>
 <strong>🔗 Instagram: <a href="https://www.instagram.com/hoang_latooi/" target="_blank">Nhấn vào đầy truy cập Instagram của Trần Văn Hoàng.</a></strong>
-
+<br/><br/>
 <strong>🔗 Linkedin: <a href="https://www.linkedin.com/in/v%C4%83n-ho%C3%A0ng-tr%E1%BA%A7n-826a54245/" target="_blank">Nhấn vào đầy truy cập Linkedin của Trần Văn Hoàng.</a>
 </strong>
 
@@ -135,7 +140,7 @@ I wish you a good day.</p>
 <br>
 
 <hr/>
-<h2 align="center">📑 Hi nice to meet you ! </h2>
+<h2 align="center">📑 Nice to meet you ! </h2>
 <br/>
 <br/>
 <a href="#" target="_blank">
