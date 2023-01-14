@@ -71,22 +71,22 @@
 &nbsp;
 
 <hr/>
-<h2 align="left">😉 Personal information.</h2>
+<h2 align="left">🕵️🏻 Personal information.</h2>
 <br/>
-<p><strong>☕ Name: </strong>Hoang Tran Van.</p>
-<p><strong>☕ Vietnamese name: </strong>Trần Văn Hoàng.</p>
-<p><strong>☕ Date of birth: </strong>24-11-1999.</p>
-<p><strong>☕ Home town: </strong>Loc Dien, Phu Loc, Thua Thien Hue. 
+<p><strong>🤵 Name: </strong>Hoang Tran Van.</p>
+<p><strong>🔖 Vietnamese name: </strong>Trần Văn Hoàng.</p>
+<p><strong>🎂 Date of birth: </strong>24-11-1999.</p>
+<p><strong>🏡 Home town: </strong>Loc Dien, Phu Loc, Thua Thien Hue. &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./images/Hueimg.jpg" alt="trungquandev-official" height="30dp"/>
 </p>
-<p><strong>☕ Academic level: </strong>Hue Science University.<img src="./images/img_dhkh_hue.jpg" alt="trungquandev-official" height="30dp"/></p>
-<p><strong>☕ Training industry: </strong>Information Technology.</p>
+<p><strong>🏫 Academic level: </strong>Hue Science University.&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/img_dhkh_hue.jpg" alt="trungquandev-official" height="30dp"/></p>
+<p><strong>🎓 Training industry: </strong>Information Technology.</p>
 <br/><br/>
 <p>Dear friend.
 
 I'm glad you've come to my Github page, where there's a little bit of information about me and the projects I share with everyone. I hope you will find what you are looking for and we can get to know each other better through this Github...
 
-I wish you a good day.</p>
+Nice to meet you.</p>
 <br/>
 <p>
 📜 <strong><i>Contact Info:</i></strong> <br/><br/>
@@ -99,6 +99,12 @@ I wish you a good day.</p>
 <!-- <a href="https://youtu.be/63opfUkPq6k" target="_blank">
   <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
 </a> -->
+<hr/>
+<h2 align="left">⛑️ Service provided.</h2>
+
+<p> 
+We support all web services and applications for businesses and individuals.
+</p>
 
 <hr/>
 <h2 align="left">🌜 Where to find me.</h2>
@@ -133,12 +139,8 @@ I wish you a good day.</p>
 <br/><br/>
 <strong>🔗 Linkedin: <a href="https://www.linkedin.com/in/v%C4%83n-ho%C3%A0ng-tr%E1%BA%A7n-826a54245/" target="_blank">Nhấn vào đầy truy cập Linkedin của Trần Văn Hoàng.</a>
 </strong>
-
-
-
 <br>
 <br>
-
 <hr/>
 <h2 align="center">📑 Nice to meet you ! </h2>
 <br/>
