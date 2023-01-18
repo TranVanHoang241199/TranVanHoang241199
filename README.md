@@ -70,6 +70,7 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 
+<!-- https://run.vn/ -->
 <hr/>
 <h2 align="left">🕵️🏻 Personal information.</h2>
 <br/>
@@ -79,8 +80,9 @@
 <p><strong>🏡 Home town: </strong>Loc Dien, Phu Loc, Thua Thien Hue. &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./images/Hueimg.jpg" alt="trungquandev-official" height="30dp"/>
 </p>
+<p><strong>🎓 Training industry: </strong>Information Technology. &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./images/cnttt.jpg" alt="trungquandev-official" height="30dp"/></p>
 <p><strong>🏫 Academic level: </strong>Hue Science University.&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/img_dhkh_hue.jpg" alt="trungquandev-official" height="30dp"/></p>
-<p><strong>🎓 Training industry: </strong>Information Technology.</p>
 <p><strong>🌏 Country: </strong>Vietnam. &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./images/Flag_of_Vietnam.png" alt="trungquandev-official" height="30dp"/></p>
 <br/><br/>
