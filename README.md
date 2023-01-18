@@ -108,7 +108,7 @@ Nice to meet you.</p>
 <br/>
 <p align="center"> 
 We support all web services and applications for businesses and individuals.<br/>
-It's just that you have a problem with your right eye. Let us take care of the rest for you.
+If you have difficulty please contact us. Let us take care of the rest for you.
 </p>
 <br/>
 <hr/>
