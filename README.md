@@ -81,7 +81,8 @@
 </p>
 <p><strong>🏫 Academic level: </strong>Hue Science University.&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/img_dhkh_hue.jpg" alt="trungquandev-official" height="30dp"/></p>
 <p><strong>🎓 Training industry: </strong>Information Technology.</p>
-<p><strong>🌏 country: </strong>Vietnam.<img src="./images/Flag_of_Vietnam.png" alt="trungquandev-official" height="30dp"/></p>
+<p><strong>🌏 country: </strong>Vietnam. &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./images/Flag_of_Vietnam.png" alt="trungquandev-official" height="30dp"/></p>
 <br/><br/>
 <p>Dear friend.
 
