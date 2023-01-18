@@ -101,11 +101,12 @@ Nice to meet you.</p>
 </a> -->
 <hr/>
 <h2 align="left">⛑️ Service provided.</h2>
-
-<p> 
-We support all web services and applications for businesses and individuals.
+<br/>
+<p align="center"> 
+We support all web services and applications for businesses and individuals.<br/>
+It's just that you have a problem with your right eye. Let us take care of the rest for you.
 </p>
-
+<br/>
 <hr/>
 <h2 align="left">🌜 Where to find me.</h2>
 <br/>
@@ -133,11 +134,11 @@ We support all web services and applications for businesses and individuals.
 <br/><br/>
 <strong>🔗 Facebook: <a href="https://www.facebook.com/hoangtv241199/" target="_blank">Nhấn vào đầy truy cập Facebook của Trần Văn Hoàng.</a></strong>
 <br/><br/>
-<strong>🔗 Youtube: <a href="https://www.youtube.com/channel/UCXupSRyp8UzeU1yp1QuqIJw" target="_blank">Nhấn vào đầy truy cập Youtube của Trần Văn Hoàng.</a></strong>
-<br/><br/>
 <strong>🔗 Instagram: <a href="https://www.instagram.com/hoang_latooi/" target="_blank">Nhấn vào đầy truy cập Instagram của Trần Văn Hoàng.</a></strong>
 <br/><br/>
-<strong>🔗 Linkedin: <a href="https://www.linkedin.com/in/v%C4%83n-ho%C3%A0ng-tr%E1%BA%A7n-826a54245/" target="_blank">Nhấn vào đầy truy cập Linkedin của Trần Văn Hoàng.</a>
+<strong>🔗 Youtube: <a href="https://www.youtube.com/channel/UCXupSRyp8UzeU1yp1QuqIJw" target="_blank">Nhấn vào đầy truy cập Youtube của Trần Văn Hoàng.</a></strong>
+<br/><br/>
+<strong>🔗 Linkedin: <a href="https://www.linkedin.com/in/vanhoangtran241199/" target="_blank">Nhấn vào đầy truy cập Linkedin của Trần Văn Hoàng.</a>
 </strong>
 <br>
 <br>
