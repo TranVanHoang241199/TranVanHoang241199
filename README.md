@@ -81,6 +81,7 @@
 </p>
 <p><strong>🏫 Academic level: </strong>Hue Science University.&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/img_dhkh_hue.jpg" alt="trungquandev-official" height="30dp"/></p>
 <p><strong>🎓 Training industry: </strong>Information Technology.</p>
+<p><strong>🌏 country: </strong>Vietnam.<img src="./images/Flag_of_Vietnam.png" alt="trungquandev-official" height="30dp"/></p>
 <br/><br/>
 <p>Dear friend.
 
@@ -132,13 +133,13 @@ It's just that you have a problem with your right eye. Let us take care of the r
   </a>
 </div>
 <br/><br/>
-<strong>🔗 Facebook: <a href="https://www.facebook.com/hoangtv241199/" target="_blank">Nhấn vào đầy truy cập Facebook của Trần Văn Hoàng.</a></strong>
+<strong>🔗 Facebook: <a href="https://www.facebook.com/hoangtv241199/" target="_blank">Click to access Tran Van Hoang's Facebook page.</a></strong>
 <br/><br/>
-<strong>🔗 Instagram: <a href="https://www.instagram.com/hoang_latooi/" target="_blank">Nhấn vào đầy truy cập Instagram của Trần Văn Hoàng.</a></strong>
+<strong>🔗 Instagram: <a href="https://www.instagram.com/hoang_latooi/" target="_blank">Click to access Tran Van Hoang's Instagram page.</a></strong>
 <br/><br/>
-<strong>🔗 Youtube: <a href="https://www.youtube.com/channel/UCXupSRyp8UzeU1yp1QuqIJw" target="_blank">Nhấn vào đầy truy cập Youtube của Trần Văn Hoàng.</a></strong>
+<strong>🔗 Youtube: <a href="https://www.youtube.com/channel/UCXupSRyp8UzeU1yp1QuqIJw" target="_blank">Click to access Tran Van Hoang's Youtube page.</a></strong>
 <br/><br/>
-<strong>🔗 Linkedin: <a href="https://www.linkedin.com/in/vanhoangtran241199/" target="_blank">Nhấn vào đầy truy cập Linkedin của Trần Văn Hoàng.</a>
+<strong>🔗 Linkedin: <a href="https://www.linkedin.com/in/vanhoangtran241199/" target="_blank">Click to visit Tran Van Hoang's Linkedin page.</a>
 </strong>
 <br>
 <br>
