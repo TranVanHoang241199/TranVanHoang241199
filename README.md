@@ -78,13 +78,13 @@
 <p><strong>🔖 Vietnamese name: </strong>Trần Văn Hoàng.</p>
 <p><strong>🎂 Date of birth: </strong>24-11-1999.</p>
 <p><strong>🏡 Home town: </strong>Loc Dien, Phu Loc, Thua Thien Hue. &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./images/Hueimg.jpg" alt="trungquandev-official" height="30dp"/>
+<img src="./images/Hueimg.jpg" alt="HoangTV-official" height="30dp"/>
 </p>
 <p><strong>🎓 Training industry: </strong>Information Technology. &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./images/cnttt.jpg" alt="trungquandev-official" height="30dp"/></p>
-<p><strong>🏫 Academic level: </strong>Hue Science University.&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/img_dhkh_hue.jpg" alt="trungquandev-official" height="30dp"/></p>
+<img src="./images/cnttt.jpg" alt="HoangTV-official" height="30dp"/></p>
+<p><strong>🏫 Academic level: </strong>Hue Science University.&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/img_dhkh_hue.jpg" alt="HoangTV-official" height="30dp"/></p>
 <p><strong>🌏 Country: </strong>Vietnam. &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./images/Flag_of_Vietnam.png" alt="trungquandev-official" height="30dp"/></p>
+<img src="./images/Flag_of_Vietnam.png" alt="HoangTV-official" height="30dp"/></p>
 <br/><br/>
 <p>Dear friend.
 
@@ -119,20 +119,20 @@ If you have difficulty please contact us. Let us take care of the rest for you.
 <div align="center">
 
   </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  <a href="https://www.facebook.com/hoangtv241199/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="HoangTV-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  <a href="https://www.youtube.com/channel/UCXupSRyp8UzeU1yp1QuqIJw" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="HoangTV-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  <a href="https://www.linkedin.com/in/vanhoangtran241199/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="HoangTV-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  <a href="https://www.instagram.com/hoang_latooi/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="HoangTV-instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:vanhoangtran241199@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="HoangTV-email" />
   </a>
 </div>
 <br/><br/>
@@ -151,5 +151,5 @@ If you have difficulty please contact us. Let us take care of the rest for you.
 <br/>
 <br/>
 <a href="#" target="_blank">
-  <img src="./images/IMG_0802.HEIC.jpg" alt="trungquandev-official" />
+  <img src="./images/IMG_0802.HEIC.jpg" alt="HoangTV-official" />
 </a>
