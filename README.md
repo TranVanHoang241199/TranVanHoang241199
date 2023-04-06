@@ -76,7 +76,9 @@
 <br/>
 <p><strong>🤵 Name: </strong>Hoang Tran Van.</p>
 <p><strong>🔖 Vietnamese name: </strong>Trần Văn Hoàng.</p>
-<p><strong>🎂 Date of birth: </strong>24-11-1999.</p>
+<p><strong>🎂 Date of birth: </strong>24-11-1999. &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./images/meomeo.jpg" alt="HoangTV-official" height="30dp"/>
+</p>
 <p><strong>🏡 Home town: </strong>Loc Dien, Phu Loc, Thua Thien Hue. &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./images/Hueimg.jpg" alt="HoangTV-official" height="30dp"/>
 </p>
