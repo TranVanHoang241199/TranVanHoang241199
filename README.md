@@ -6,8 +6,9 @@
 <br>
 <br>
 <!-- https://simpleicons.org/ -->
-
+<!--
 <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=Microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
+-->
 &nbsp;
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" /></span>
 &nbsp;
